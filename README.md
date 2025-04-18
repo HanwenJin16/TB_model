@@ -238,3 +238,6 @@ The tight-binding model for Janus nanoparticles
     <td>4.155301</td>
   </tr>
 </table>
+
+# Code
+The code is available at [`code.py`](https://github.com/HanwenJin16/TB_model/code.py) file, this code is part of my kpm code, which is available at [Hanwenjin16/kpm](https://github.com/HanwenJin16/kpm)
