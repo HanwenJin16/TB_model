@@ -22,7 +22,7 @@ The tight-binding model for Janus nanoparticles
     <td>Au</td>
   </tr>
     <tr>
-    <th>ss_sig1</th>
+    <th>$ss\sigma_1$</th>
     <td>-0.875935</td>
     <td>-0.846827</td>
     <td>-0.865885</td>
@@ -31,7 +31,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.873583</td>
   </tr>
   <tr>
-    <th>pp_sig1</th>
+    <th>$pp\sigma_1$</th>
     <td>2.186927</td>
     <td>2.049511</td>
     <td>2.376640</td>
@@ -40,7 +40,7 @@ The tight-binding model for Janus nanoparticles
     <td>2.182962</td>
   </tr>
   <tr>
-    <th>pp_pi1</th>
+    <th>$pp\pi_1$</th>
     <td>-0.294746</td>
     <td>-0.311702</td>
     <td>-0.466511</td>
@@ -49,7 +49,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.292637</td>
   </tr>
   <tr>
-    <th>dd_sig1</th>
+    <th>$dd\sigma_1$</th>
     <td>-0.634308</td>
     <td>-0.422095</td>
     <td>-0.354399</td>
@@ -58,7 +58,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.630700</td>
   </tr>
   <tr>
-    <th>dd_pi1</th>
+    <th>$dd\pi_1$</th>
     <td>0.299185</td>
     <td>0.246162</td>
     <td>0.244487</td>
@@ -67,7 +67,7 @@ The tight-binding model for Janus nanoparticles
     <td>0.297824</td>
   </tr>
   <tr>
-    <th>dd_del1</th>
+    <th>$dd\delta_1$</th>
     <td>-0.031374</td>
     <td>-0.036875</td>
     <td>-0.060188</td>
@@ -76,7 +76,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.031374</td>
   </tr>
   <tr>
-    <th>sp_sig1</th>
+    <th>$sp\sigma_1$</th>
     <td>1.291673</td>
     <td>1.248468</td>
     <td>1.530002</td>
@@ -85,7 +85,7 @@ The tight-binding model for Janus nanoparticles
     <td>1.287485</td>
   </tr>
   <tr>
-    <th>sd_sig1</th>
+    <th>$sd\sigma_1$</th>
     <td>-0.633443</td>
     <td>-0.418779</td>
     <td>-0.471930</td>
@@ -94,7 +94,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.629821</td>
   </tr>
   <tr>
-    <th>pd_sig1</th>
+    <th>$pd\sigma_1$</th>
     <td>-0.873701</td>
     <td>-0.443757</td>
     <td>-0.407648</td>
@@ -103,7 +103,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.868544</td>
   </tr>
   <tr>
-    <th>pd_pi1</th>
+    <th>$pd\pi_1$</th>
     <td>0.220582</td>
     <td>0.162761</td>
     <td>0.273089</td>
@@ -112,7 +112,7 @@ The tight-binding model for Janus nanoparticles
     <td>0.220039</td>
   </tr>
   <tr>
-    <th>ss_sig2</th>
+    <th>$ss\sigma_2$</th>
     <td>0.011953</td>
     <td>0.006103</td>
     <td>-0.016127</td>
@@ -121,7 +121,7 @@ The tight-binding model for Janus nanoparticles
     <td>0.011886</td>
   </tr>
   <tr>
-    <th>pp_sig2</th>
+    <th>$pp\sigma_2$</th>
     <td>0.008476</td>
     <td>0.031582</td>
     <td>0.087135</td>
@@ -130,7 +130,7 @@ The tight-binding model for Janus nanoparticles
     <td>0.008211</td>
   </tr>
   <tr>
-    <th>pp_pi2</th>
+    <th>$pp\pi_2$</th>
     <td>0.001408</td>
     <td>0.003246</td>
     <td>0.026039</td>
@@ -139,7 +139,7 @@ The tight-binding model for Janus nanoparticles
     <td>0.001442</td>
   </tr>
   <tr>
-    <th>dd_sig2</th>
+    <th>$dd\sigma_2$</th>
     <td>0.001120</td>
     <td>-0.001550</td>
     <td>-0.005484</td>
@@ -148,7 +148,7 @@ The tight-binding model for Janus nanoparticles
     <td>0.001096</td>
   </tr>
   <tr>
-    <th>dd_pi2</th>
+    <th>$dd\pi_2$</th>
     <td>-0.002541</td>
     <td>-0.003143</td>
     <td>0.003304</td>
@@ -157,7 +157,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.002535</td>
   </tr>
   <tr>
-    <th>dd_del2</th>
+    <th>$dd\delta_2$</th>
     <td>0.001111</td>
     <td>0.002115</td>
     <td>-0.000658</td>
@@ -166,7 +166,7 @@ The tight-binding model for Janus nanoparticles
     <td>0.001110</td>
   </tr>
   <tr>
-    <th>sp_sig2</th>
+    <th>$sp\sigma_2$</th>
     <td>-0.009413</td>
     <td>-0.002305</td>
     <td>0.019916</td>
@@ -175,7 +175,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.009490</td>
   </tr>
   <tr>
-    <th>sd_sig2</th>
+    <th>$sd\sigma_2$</th>
     <td>0.012138</td>
     <td>0.007270</td>
     <td>-0.003781</td>
@@ -184,7 +184,7 @@ The tight-binding model for Janus nanoparticles
     <td>0.012164</td>
   </tr>
   <tr>
-    <th>pd_sig2</th>
+    <th>$pd\sigma_2$</th>
     <td>-0.012243</td>
     <td>-0.029378</td>
     <td>-0.000519</td>
@@ -193,7 +193,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.012282</td>
   </tr>
   <tr>
-    <th>pd_pi2</th>
+    <th>$pd\pi_2$</th>
     <td>-0.008776</td>
     <td>-0.018711</td>
     <td>0.005390</td>
@@ -202,7 +202,7 @@ The tight-binding model for Janus nanoparticles
     <td>-0.008732</td>
   </tr>
   <tr>
-    <th>Es</th>
+    <th>$E_s$</th>
     <td>8.925415</td>
     <td>9.696881</td>
     <td>10.230875</td>
@@ -211,7 +211,7 @@ The tight-binding model for Janus nanoparticles
     <td>8.422715</td>
   </tr>
   <tr>
-    <th>Ep</th>
+    <th>$E_p$</th>
     <td>17.766400</td>
     <td>16.596332</td>
     <td>17.985200</td>
@@ -220,7 +220,7 @@ The tight-binding model for Janus nanoparticles
     <td>17.256614</td>
   </tr>
   <tr>
-    <th>Ed</th>
+    <th>$E_d$</th>
     <td>4.693933</td>
     <td>3.107983</td>
     <td>4.904297</td>
@@ -229,7 +229,7 @@ The tight-binding model for Janus nanoparticles
     <td>4.205108</td>
   </tr>
   <tr>
-    <th>R0</th>
+    <th>$R_0$</th>
     <td>4.150925</td>
     <td>4.150925</td>
     <td>3.631159</td>
